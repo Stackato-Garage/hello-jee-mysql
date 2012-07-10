@@ -1,0 +1,7 @@
+---
+applications:
+  target:
+    name: hello-jee
+    services:
+      jee-mysql:
+        type: mysql
